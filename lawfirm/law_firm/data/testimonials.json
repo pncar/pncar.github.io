@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Emil Turner",
+        "image": "client1.png"
+    },
+    {
+        "id": 2,
+        "name": "Nolan Morissette",
+        "image": "client2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Jennie Gerlach",
+        "image": "client3.png"
+    },
+    {
+        "id": 4,
+        "name": "Libby Lakin",
+        "image": "client4.png"
+    }
+]

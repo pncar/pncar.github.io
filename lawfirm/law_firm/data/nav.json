@@ -1,0 +1,71 @@
+[
+  {
+    "id": 0,
+    "title": "Home",
+    "active": true,
+    "to": "/",
+    "open": false
+  },
+  {
+    "id": 1,
+    "title": "About",
+    "to": "/about",
+    "open": false
+  },
+  {
+    "id": 2,
+    "title": "Services",
+    "to": "/services",
+    "submenu": [
+      {
+        "id": 0,
+        "title": "Business Law",
+        "to": "/services/business_law"
+      },
+      {
+        "id": 1,
+        "title": "Labor Law",
+        "to": "/services/labor_law"
+      },
+      {
+        "id": 2,
+        "title": "Criminal Law",
+        "to": "/services/criminal_law"
+      },
+      {
+        "id": 3,
+        "title": "Family Affairs",
+        "to": "/services/family_affairs"
+      },
+      {
+        "id": 4,
+        "title": "Consumer Protection",
+        "to": "/services/consumer_protection"
+      },
+      {
+        "id": 5,
+        "title": "Real Estate",
+        "to": "/services/real_estate"
+      }
+    ],
+    "open": false
+  },
+  {
+    "id": 3,
+    "title": "Team",
+    "to": "/team",
+    "open": false
+  },
+  {
+    "id": 4,
+    "title": "Blog",
+    "to": "/blog",
+    "open": false
+  },
+  {
+    "id": 5,
+    "title": "Contact",
+    "to": "/contact",
+    "open": false
+  }
+]

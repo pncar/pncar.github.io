@@ -1,0 +1,19 @@
+[
+  {
+    "n": 6,
+	"title": "Years of Service"
+  },
+  {
+    "n": 500,
+	"title": "Clients Satisfied"
+  },
+  {
+    "n": 77,
+	"title": "Cases Resolved within 2 months",
+	"type": "%"
+  },
+  {
+    "n": 82,
+	"title": "Clients choosed us again"
+  }
+]
