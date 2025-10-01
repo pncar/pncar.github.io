@@ -7,21 +7,21 @@
   },
   {
     "id": 1,
-    "name": "Bella Green",
-    "title": "Associate",
-    "portrait": "lawyer6.jpg"
-  },
-  {
-    "id": 2,
     "name": "Callum Blue",
     "title": "Associate",
     "portrait": "lawyer2.jpg"
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "Daniel Black",
     "title": "Associate",
     "portrait": "lawyer3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bella Green",
+    "title": "Associate",
+    "portrait": "lawyer6.jpg"
   },
   {
     "id": 4,

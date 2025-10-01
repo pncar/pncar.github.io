@@ -16,7 +16,7 @@
 		"Advising on union-related matters"
     ],
 	"to": "business_law",
-	"image": "https://needprobatehelp.com/wp-content/uploads/2020/05/Legal-Process.jpg"
+	"image": "business.png"
   },
   {
     "id": 1,
@@ -35,7 +35,7 @@
 		"Advising on franchise agreements"
     ],
 	"to": "labor_law",
-    "image": "https://static.vecteezy.com/system/resources/previews/007/359/536/large_2x/judge-gavel-with-justice-lawyers-businessman-in-suit-or-lawyer-working-on-a-documents-legal-law-advice-and-justice-concept-free-photo.JPG"
+    "image": "labor_law.jpeg"
   },
   {
     "id": 2,
@@ -54,7 +54,7 @@
 		"Assisting with post-conviction matters"
     ],
 	"to": "criminal_law",
-    "image": "https://static.vecteezy.com/system/resources/previews/007/359/536/large_2x/judge-gavel-with-justice-lawyers-businessman-in-suit-or-lawyer-working-on-a-documents-legal-law-advice-and-justice-concept-free-photo.JPG"
+    "image": "criminal_law.png"
   },
   {
     "id": 3,
@@ -73,7 +73,7 @@
 		"Legal counseling for family disputes"
     ],
 	"to": "family_affairs",
-    "image": "https://static.vecteezy.com/system/resources/previews/007/359/536/large_2x/judge-gavel-with-justice-lawyers-businessman-in-suit-or-lawyer-working-on-a-documents-legal-law-advice-and-justice-concept-free-photo.JPG"
+    "image": "family_affairs.png"
   },
   {
     "id": 4,
@@ -92,7 +92,7 @@
 		"Litigating consumer rights violations"
     ],
 	"to": "consumer_protection",
-    "image": "https://static.vecteezy.com/system/resources/previews/007/359/536/large_2x/judge-gavel-with-justice-lawyers-businessman-in-suit-or-lawyer-working-on-a-documents-legal-law-advice-and-justice-concept-free-photo.JPG"
+    "image": "consumer_protection.png"
   },
   {
     "id": 5,
@@ -111,7 +111,7 @@
 		"Addressing property inheritance and estate issues"
     ],
 	"to": "real_estate",
-    "image": "https://static.vecteezy.com/system/resources/previews/007/359/536/large_2x/judge-gavel-with-justice-lawyers-businessman-in-suit-or-lawyer-working-on-a-documents-legal-law-advice-and-justice-concept-free-photo.JPG"
+    "image": "real_estate.png"
   },
   {
     "id": 6,
